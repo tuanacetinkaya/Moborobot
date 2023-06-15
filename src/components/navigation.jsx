@@ -6,7 +6,7 @@ export const Navigation = (props) => {
     <nav id="menu" className="navbar navbar-default navbar-fixed-top">
       <div className="container">
         <div className="navbar-header">
-          <a className="navbar-brand page-scroll" href="/">
+          <a className="navbar-brand page-scroll" href="/Moborobot">
             HU BBM479/480 Term Project
           </a>{" "}
         </div>
