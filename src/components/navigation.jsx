@@ -23,7 +23,7 @@ export const Navigation = (props) => {
               <Link to="/simulation">Simulation Setup</Link>
             </li>
             <li>
-              <a href="/#about" className="page-scroll">
+              <a href="/#demo" className="page-scroll">
                 DEMO
               </a>
             </li>
