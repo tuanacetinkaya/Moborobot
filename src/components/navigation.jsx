@@ -17,23 +17,23 @@ export const Navigation = (props) => {
         >
           <ul className="nav navbar-nav navbar-right">
             <li>
-              <Link to="/installation">Orin Installation</Link>
+              <Link to="/Moborobot/installation">Orin Installation</Link>
             </li>
             <li>
-              <Link to="/simulation">Simulation Setup</Link>
+              <Link to="/Moborobot/simulation">Simulation Setup</Link>
             </li>
             <li>
-              <a href="/#demo" className="page-scroll">
+              <a href="/Moborobot/#demo" className="page-scroll">
                 DEMO
               </a>
             </li>
             <li>
-              <a href="/#portfolio" className="page-scroll">
+              <a href="/Moborobot/#portfolio" className="page-scroll">
                 Gallery
               </a>
             </li>
             <li>
-              <a href="/#team" className="page-scroll">
+              <a href="/Moborobot/#team" className="page-scroll">
                 Team
               </a>
             </li>

@@ -12,8 +12,8 @@ function App() {
       <Navigation />
       <Routes >
         <Route path="/" element={<Home />} />
-        <Route path="/installation" element={<Orin />} />
-        <Route path="/simulation" element={<Simulation />} />
+        <Route path="/Moborobot/installation" element={<Orin />} />
+        <Route path="/Moborobot/simulation" element={<Simulation />} />
       </Routes>
     </Router>
   );
