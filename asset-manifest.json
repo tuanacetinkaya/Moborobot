@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MoboRobot/static/css/main.073c9b0a.css",
-    "main.js": "/MoboRobot/static/js/main.a8bcda6a.js",
-    "static/js/787.e94122c7.chunk.js": "/MoboRobot/static/js/787.e94122c7.chunk.js",
-    "index.html": "/MoboRobot/index.html",
-    "main.073c9b0a.css.map": "/MoboRobot/static/css/main.073c9b0a.css.map",
-    "main.a8bcda6a.js.map": "/MoboRobot/static/js/main.a8bcda6a.js.map",
-    "787.e94122c7.chunk.js.map": "/MoboRobot/static/js/787.e94122c7.chunk.js.map"
+    "main.css": "/Moborobot/static/css/main.073c9b0a.css",
+    "main.js": "/Moborobot/static/js/main.b2974bc3.js",
+    "static/js/787.e94122c7.chunk.js": "/Moborobot/static/js/787.e94122c7.chunk.js",
+    "index.html": "/Moborobot/index.html",
+    "main.073c9b0a.css.map": "/Moborobot/static/css/main.073c9b0a.css.map",
+    "main.b2974bc3.js.map": "/Moborobot/static/js/main.b2974bc3.js.map",
+    "787.e94122c7.chunk.js.map": "/Moborobot/static/js/787.e94122c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.a8bcda6a.js"
+    "static/js/main.b2974bc3.js"
   ]
 }
