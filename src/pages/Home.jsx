@@ -26,16 +26,16 @@ const Home = () => {
         <h1>Demo Videos</h1>
         <h2>Mapping</h2>
         <div className="embed-responsive embed-responsive-16by9">
-          <iframe src='https://youtu.be/Mgex5y2_pKo' title="Mapping Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+          <iframe src='https://www.youtube.com/embed/Mgex5y2_pKo' title="Mapping Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
         </div>
         <h2>Navigation</h2>
         <div className="embed-responsive embed-responsive-16by9">
-          <iframe src='https://youtu.be/09duyEZGc10' title="Navigation Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+          <iframe src='https://www.youtube.com/embed/09duyEZGc10' title="Navigation Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
         </div>
         <h2>Indoor and Outdoor Object Avoidance</h2>
         <p>The local cost map and the local plan extend 3 meters from the robot but the global map extends 100 meters. This is because we want to be able to update the local cost map much more frequently to have dynamic obstacle avoidance capability and want to have a 100 meters global range. Since the robot cannot navigate to a place where it is outside the global costmap we set up the global map’s range of 100 meters.</p>
         <div className="embed-responsive embed-responsive-16by9">
-          <iframe src='https://youtu.be/aAXkoE9a4hQ' title="Mapping Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+          <iframe src='https://www.youtube.com/embed/aAXkoE9a4hQ' title="Mapping Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
         </div>
       </div>
       <About data={landingPageData.About} link="https://www.youtube.com/embed/N9Acz7egQyA" />
